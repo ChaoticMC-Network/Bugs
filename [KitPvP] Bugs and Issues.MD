@@ -1,5 +1,5 @@
 
-                                                      #KitPvP Bugs / Issues
+                                                      # KitPvP Bugs / Issues
 
 - [ ] Fix /tracker not removing compass in Enderman kit.
 - [ ] When you re-gain an arrow, it lowers your pulled back bow.
@@ -14,7 +14,7 @@
 - [ ] Fix TabList (7 Players Online)
 - [ ] Remove NPC's from TabList
 
-                                          ##The items that are marked are already completed.
-                                                 ##More Items will be added here.
-                                               ##This section is ONLY for KitPvP use
-                                     ##No features or new updates will be added here. Only bug fixes
+                                          ## The items that are marked are already completed.
+                                                 ## More Items will be added here.
+                                               ## This section is ONLY for KitPvP use
+                                     ## No features or new updates will be added here. Only bug fixes
