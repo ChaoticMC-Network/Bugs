@@ -1,7 +1,7 @@
 
 # KitPvP Bugs / Issues
 
-- [X] Fix /tracker not removing compass in Enderman kit.
+- [ ] Fix /tracker not removing compass in Enderman kit.
 - [ ] When you re-gain an arrow, it lowers your pulled back bow.
 - [ ] Scoreboard doesn't Auto Update.
 - [ ] Fix when you use Enderman Kit ability, it sometimes glitches you inside a block sending false positives to Alpha.
