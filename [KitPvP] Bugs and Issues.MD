@@ -1,5 +1,5 @@
 
-                                                      # KitPvP Bugs / Issues
+# KitPvP Bugs / Issues
 
 - [ ] Fix /tracker not removing compass in Enderman kit.
 - [ ] When you re-gain an arrow, it lowers your pulled back bow.
