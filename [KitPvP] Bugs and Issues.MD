@@ -11,8 +11,9 @@
 - [ ] Fix the /discord does not send any message at all.
 - [ ] Take off the Vanish cooldown on Staff Mode Vanish Item and make Vanish Item in Staff Mode run the command /sv instead of custom vanish.
 - [ ] People do not take fire damage in KitPvP.
-- [ ] Fix TabList (7 Players Online)
-- [ ] Remove NPC's from TabList
+- [ ] Fix TabList (7 Players Online).
+- [ ] Remove NPC's from TabList.
+- [ ] Fix heads not removing and giving XP to players.
 
 ## The items that are marked are already completed.
 ## More Items will be added here.
