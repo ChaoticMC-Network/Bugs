@@ -14,6 +14,14 @@
 - [ ] Fix TabList (7 Players Online).
 - [ ] Remove NPC's from TabList.
 - [ ] Fix heads not removing and giving XP to players.
+- [ ] When new players join, the currency system breaks and the leggings, cheatplate, and helemet on basic kit do not equip for them. 
+- [ ] With any kit that has a block in it as the ability activator, that block can be placed.
+- [ ] People can make and place crafting tables with the wooden plank blocks.
+- [ ] The currency commands do not work with new players.
+- [ ] There is no fire damage in KitPvP.
+- [ ] The TNT kit needs an armor buff.
+- [ ] The Healer kit needs an armor buff.
+- [ ] Donator ranks do not show up in KitPvP Chat.
 
 ## The items that are marked are already completed.
 ## More Items will be added here.
