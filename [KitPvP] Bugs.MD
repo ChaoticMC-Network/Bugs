@@ -10,6 +10,7 @@
 - [ ] Fix The respawn does not teleport you to above middle of map and then on respawn (After respawn timer goes down) you need to be teleported to spawn.
 - [ ] Fix the /discord does not send any message at all.
 - [X] Take off the Vanish cooldown on Staff Mode Vanish Item and make Vanish Item in Staff Mode run the command /sv instead of custom vanish.
+
 Time Fixed: 08:03:08 AM 11/3/2017 **(JustADev)**
 - [ ] People do not take fire damage in KitPvP.
 - [ ] Fix TabList (7 Players Online).
