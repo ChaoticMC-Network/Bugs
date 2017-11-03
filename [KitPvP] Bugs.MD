@@ -9,7 +9,7 @@
 - [ ] Fix when you right click a player's head, it says it gave you XP when it didn't and also does not remove the Head from your inventory.
 - [ ] Fix The respawn does not teleport you to above middle of map and then on respawn (After respawn timer goes down) you need to be teleported to spawn.
 - [ ] Fix the /discord does not send any message at all.
-- [*] Take off the Vanish cooldown on Staff Mode Vanish Item and make Vanish Item in Staff Mode run the command /sv instead of custom vanish.
+- [X] Take off the Vanish cooldown on Staff Mode Vanish Item and make Vanish Item in Staff Mode run the command /sv instead of custom vanish.
 - [ ] People do not take fire damage in KitPvP.
 - [ ] Fix TabList (7 Players Online).
 - [ ] Remove NPC's from TabList.
